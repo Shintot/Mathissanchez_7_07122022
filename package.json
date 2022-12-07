@@ -1,0 +1,19 @@
+{
+  "name": "mathissanchez",
+  "version": "1.0.0",
+  "description": "Site Mathis Sanchez",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch style/style.scss css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shintot/Mathissanchez_3_06082021.git"
+  },
+  "author": "Shintot_Mathissanchez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shintot/Mathissanchez_3_06082021/issues"
+  },
+  "homepage": "https://github.com/Shintot/Mathissanchez_3_06082021#readme"
+}
